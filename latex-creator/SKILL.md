@@ -234,6 +234,10 @@ Form câu hỏi loại 4
 ```
 ./output/
 ```
+3. Chú ý: 
+\begin{kd}
+	\immini{Nội dung câu hởi khởi động}{Chèn ảnh minh họa vào đây bằng lệnh \includegraphics[width=0.5\textwidth]{filename.png}} trong đó filename.png là tên file ảnh minh họa mô hình tự tạo và lưu trong thư mục images của skill này với folder images/C<Chương>B<Bài>_<TênBài>_img và có tên file là C<Chương>B<Bài>_<TênBài>_img.png
+\end{kd}
 **Quy tắc đặt tên file:** `C<Chương>B<Bài>_<TênBài>.tex`
 Ví dụ: `C05B01_PhanUngHoaHocEnthalpy.tex`
 
